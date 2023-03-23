@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +32,12 @@ body {
     font-size: 20px;
 }
 
-.header div a {
+.header section a {
     color: #ffffff;
     text-decoration: none;
 }
 
-.header div ul li {
+.header section ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -75,7 +75,7 @@ body {
     max-height: 200px;
 }
 
-.content div { 
+.content section { 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
